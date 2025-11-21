@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://t.me/engIbrahemQruea" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://t.me/FlutterwithIbrahem?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
